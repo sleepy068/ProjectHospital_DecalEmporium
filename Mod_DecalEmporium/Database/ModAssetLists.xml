@@ -1,0 +1,82 @@
+<Database>
+<!-- Decal EMP Mod by Sleepy068 -->
+<!-- 
+### Asset ### 
+This section adds my custom icons, decals, etc to the game. -->
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_DECALS">           
+<Type>TEXTURE_OBJECTS</Type>      
+<File>MOD_ROOT/mod_decals_2048_atlas.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON001">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_mens.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON002">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_mensborder.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON003">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_womens.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON004">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_womensborder.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON005">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_disabled.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON006">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_disabledborder.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON007">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_parentsroom.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON008">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_patientonly.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON009">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_staffonly.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON010">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_changeroom.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON011">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_changeroomFR.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON012">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_menssmall.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON013">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_womenssmall.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_DECEMP_CUSTOM_ICON014">     
+<Type>TEXTURE_CUSTOM_SPRITE</Type>  
+<File>MOD_ROOT/slp_decicon_changeroomENFR.png</File> 
+</GameDBAsset>
+
+</Database>

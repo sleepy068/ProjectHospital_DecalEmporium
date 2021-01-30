@@ -1,0 +1,154 @@
+<Database>
+
+<GameDBStringTable ID="LOC_FR_ADDON_MOD_DECALEMP">
+<LanguageCode>fr</LanguageCode>
+<LanguageNameLocalized>Français</LanguageNameLocalized>
+<Contributors>
+<Name>Sleepy068</Name>
+</Contributors>
+
+<LocalizedStrings>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP1</LocID>       			
+		<Text>Chambre des hommes</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP1_DESC</LocID>       			
+		<Text>Décalque d'installations pour hommes seulement.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP2</LocID>       			
+		<Text>Chambre des hommes (Frontière)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP2_DESC</LocID>       			
+		<Text>Décalque d'installations pour hommes uniquement avec une bordure.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP3</LocID>       			
+		<Text>Chambre des femmes</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP3_DESC</LocID>       			
+		<Text>Décalque d'installations pour femmes seulement.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP4</LocID>       			
+		<Text>Chambre des femmes (Frontière)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP4_DESC</LocID>       			
+		<Text>Décalque d'installations pour femmes uniquement avec une bordure.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP5</LocID>       			
+		<Text>Pièce Accessible</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP5_DESC</LocID>       			
+		<Text>Décalques d'installations pour ceux qui ont des exigences d'accès supplémentaires.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP6</LocID>       			
+		<Text>Pièce Accessible (Frontière)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP6_DESC</LocID>       			
+		<Text>Décalques d'installations pour ceux qui ont des exigences d'accès supplémentaires avec une bordure.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP7</LocID>       			
+		<Text>Chambre des parents</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP7_DESC</LocID>       			
+		<Text>Décalque salle parents. A parents room allows parents to attend to specific needs of young children.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP8</LocID>       			
+		<Text>Patient Seulement</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP8_DESC</LocID>       			
+		<Text>Une lecture de décalcomanie 'Patient Seulement'.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP9</LocID>       			
+		<Text>Personnel Seulement</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP9_DESC</LocID>       			
+		<Text>Une lecture de décalcomanie 'Personnel Seulement'.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP10</LocID>       			
+		<Text>Vestiaires (EN)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP10_DESC</LocID>       			
+		<Text>Une lecture de décalcomanie 'Change Room'.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP11</LocID>       			
+		<Text>Vestiaires (FR)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP11_DESC</LocID>       			
+		<Text>Une lecture de décalcomanie 'Vestiaires'.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP12</LocID>       			
+		<Text>Chambre des hommes (Petite)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP12_DESC</LocID>       			
+		<Text>Petite décalque d'installations pour hommes seulement.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP13</LocID>       			
+		<Text>Chambre des femmes (Petite)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP13_DESC</LocID>       			
+		<Text>Petite décalque d'installations pour femmes seulement.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP14</LocID>       			
+		<Text>Vestiaires (EN/FR)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP14_DESC</LocID>       			
+		<Text>Une lecture de décalcomanie 'Change Room' et 'Vestiaires' pour les patients Anglais et Français.</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

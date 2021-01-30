@@ -1,0 +1,154 @@
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_MOD_DECALEMP">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>Sleepy068</Name>
+</Contributors>
+
+<LocalizedStrings>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP1</LocID>       			
+		<Text>Men's Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP1_DESC</LocID>       			
+		<Text>Male only facilities decal.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP2</LocID>       			
+		<Text>Men's Room (Border)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP2_DESC</LocID>       			
+		<Text>Male only facilities decal with a border.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP3</LocID>       			
+		<Text>Women's Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP3_DESC</LocID>       			
+		<Text>Female only facilities decal.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP4</LocID>       			
+		<Text>Women's Room (Border)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP4_DESC</LocID>       			
+		<Text>Female only facilities decal with a border.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP5</LocID>       			
+		<Text>Accessible Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP5_DESC</LocID>       			
+		<Text>Facilities decal for those with additional access requirements.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP6</LocID>       			
+		<Text>Accessible Room (Border)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP6_DESC</LocID>       			
+		<Text>Facilities decal for those with additional access requirements with a border.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP7</LocID>       			
+		<Text>Parent's Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP7_DESC</LocID>       			
+		<Text>Parents room decal. A parents room allows parents to attend to specific needs of young children.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP8</LocID>       			
+		<Text>Patient Only</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP8_DESC</LocID>       			
+		<Text>A decal reading 'Patient Only'.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP9</LocID>       			
+		<Text>Staff Only</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP9_DESC</LocID>       			
+		<Text>A decal reading 'Staff Only'.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP10</LocID>       			
+		<Text>Change Room (EN)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP10_DESC</LocID>       			
+		<Text>A decal reading 'Change Room'.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP11</LocID>       			
+		<Text>Change Room (FR)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP11_DESC</LocID>       			
+		<Text>A decal reading 'Vestiaires' for French speaking patients.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP12</LocID>       			
+		<Text>Men's Room (Small)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP12_DESC</LocID>       			
+		<Text>Male only facilities small decal.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP13</LocID>       			
+		<Text>Women's Room (Small)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP13_DESC</LocID>       			
+		<Text>Female only facilities small decal.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP14</LocID>       			
+		<Text>Change Room (EN/FR)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DECEMP14_DESC</LocID>       			
+		<Text>A decal reading 'Change Room' and 'Vestiaires' for English and French patients.</Text>  
+	</GameDBLocalizedString>
+			
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>
